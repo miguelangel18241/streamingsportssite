@@ -1,0 +1,74 @@
+body {
+	background: whitesmoke;
+	text-align: center;
+	color: black;
+	align-self: center;
+}
+
+input {
+	width: 80%;
+	border-radius: 25px;
+	text-align: center;
+	font-size: 14px;
+	height: 25px;
+	margin: 10px;
+
+}
+
+button {
+	width: 82%;
+	margin: 10px;
+	padding: 12px;
+	cursor: grab;
+	border: 1px solid whitesmoke;
+	border-radius: 25px;
+	background-color: whitesmoke;
+	font-size: 14px;
+}
+
+.logInLanding {
+	text-align: center;
+	margin: 25px;
+	padding: 25px;
+	background-image: linear-gradient(to right, rgba(255,0,0,0), rgba(255,0,0,1));
+	height: 700px;
+	width: 25%;
+	align-self: center;
+	
+}
+
+.LogInMessage {
+	font-family: 'Courier New', monospace;
+	color: black;
+	letter-spacing: 0.25;
+}
+
+hr.new1 {
+	border-top: 1px solid whitesmoke;
+}
+
+.socialMedia {
+	border: 1px solid whitesmoke;
+	margin: 10px;
+	padding: 12px;
+	border-radius: 25px;
+}
+
+.sss {
+	font-family: 'Courier New', monospace;
+	font-size: 30px;
+}
+
+img {
+	width: 200px;
+	height: 200px;
+	border-radius: 50px 0 50px 0;
+}
+
+
+
+
+
+
+
+
